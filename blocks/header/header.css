@@ -152,6 +152,7 @@ header .nav-brand {
 header nav .nav-brand img {
   width: 350px;
   height: auto;
+  margin-right:1rem;
 }
 
 /* sections */
@@ -160,6 +161,7 @@ header nav .nav-sections {
   flex: 1 1 auto;
   display: none;
   visibility: hidden;
+  padding-top:1.4rem;
 }
 
 header nav[aria-expanded='true'] .nav-sections {
